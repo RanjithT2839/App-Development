@@ -1,0 +1,93 @@
+.homefooter {
+  position: absolute;
+  background-image:linear-gradient(to right,rgb(255, 255, 255), rgb(109, 148, 165)) ;
+  /* z-index: -2; */
+  color: #000000;
+  padding: 10% 45%;
+  height: 0%;
+  width: 10%;
+  top: 230%;
+  display: flex;
+  
+}
+.homeicon{
+  position: absolute;
+  display: flex;
+  top: 10%;
+  color: #000000;
+  left: 6%;
+  /* text-indent: 300cap; */
+}
+
+
+.homecopy{
+  position: absolute;
+  top: 80%;
+  left: 3%;
+  color: black;
+}
+.hometerms{
+  position: absolute;
+  /* display: flex; */
+  left: 20%;
+  top: 6%;
+  font-size: 0.8rem;
+  color: black;
+
+}
+.homecon{
+  position: absolute;
+  /* display: flex; */
+  font-family: "Leamington Serial",Arial,sans-serif;
+ font-size: 0.8rem;
+  
+ top: 20%;
+  color: #003336;
+  left: 20%;
+  
+}
+.homecon2{
+  position: absolute;
+  /* display: flex; */
+  font-family: "Leamington Serial",Arial,sans-serif;
+ font-size: 0.8rem;
+  
+ top: 20%;
+  color: #003336;
+  left: 37%;
+  
+  
+}
+.homepolicy
+{
+  position: absolute;
+  left: 37%;
+  top: 6%;
+  font-size: 0.8rem;
+  color: black;
+}
+.homedia{
+  position: relative;
+  margin-top: -5%;
+  font-style: italic;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+.homenew{
+  position: absolute;
+  top: 10%;
+  left: 55%;
+  color: black;
+}
+.sub{
+  position: absolute;
+  width: 10%;
+  height: 15%;
+  background-color: grey;
+  color: #000000;
+  border-color: black;
+  border-radius: 3%;
+  font-size: 100%;
+  top: 50%;
+  left: 55%;
+}

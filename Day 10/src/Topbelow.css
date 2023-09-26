@@ -1,0 +1,27 @@
+.header {
+    position: fixed;
+    top: 14%;
+    left: 0;
+    right: 0;
+    background-color: #0e3c5d;
+    z-index: 1000; 
+    padding: -20px 0px;
+  }
+  
+  .navigation-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px;
+  }
+  
+  .navigation-menu a {
+    text-decoration: none;
+    color: rgb(189, 181, 181);
+    padding: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .navigation-menu a:hover {
+    background-color: #c9c7c7;
+  }
