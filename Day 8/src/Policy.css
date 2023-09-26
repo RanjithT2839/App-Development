@@ -1,0 +1,43 @@
+h6 {
+    text-decoration: underline; 
+    cursor: pointer; 
+    margin: 10px 0; 
+   
+  }
+  
+  h6:hover {
+    text-decoration: none; 
+  }
+  
+  
+  .MuiDialog-paper {
+    width: 80%; /* Adjust the width of the dialog as needed */
+    max-width: 800px; /* Set a maximum width */
+  }
+  
+  /* Styling for the dialog title */
+  .MuiDialogTitle-root {
+    background-color: #007BFF; /* Title background color */
+    color: #fff; /* Title text color */
+    padding: 16px; /* Title padding */
+  }
+  
+  /* Styling for the close button */
+  .MuiIconButton-root {
+    color: #fff; /* Close button color */
+  }
+  
+  /* Styling for the content inside the dialog */
+  .MuiDialogContent-root {
+    padding: 20px; /* Content padding */
+    background-color: #fff; /* Content background color */
+  }
+  
+  /* Styling for the dialog actions (e.g., close button) */
+  .MuiDialogActions-root {
+    padding: 16px; /* Actions padding */
+    background-color: #f0f0f0; /* Actions background color */
+    justify-content: flex-end; /* Align actions to the right */
+  }
+  
+  /* Customize these styles as per your design preferences */

@@ -1,0 +1,35 @@
+/* Page header styles */
+.c1 {
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    font-size: 110%;
+    
+  }
+  
+  /* Section styles */
+  section {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+  }
+  
+  /* Heading styles */
+  .c2 {
+    color: #000000;
+  }
+  
+  /* Paragraph styles */
+  .c3 {
+    color: #424242;
+  }
+  .pos
+  {
+      position: absolute;
+      top: 18%;
+      width: 90%;
+      left: 5%;
+  }
